@@ -8,7 +8,6 @@
 This repository contains the design and integration of a **custom user hardware module** into the **Caravel System-on-Chip (SoC)** platform.  
 The project follows a **complete ASIC design flow**, from **RTL design** to **physical layout generation**, using **OpenLane** and open-source EDA tools.
 
-This work was carried out in the context of a **Master’s Final Year Project (PFE)** in **Microelectronics**, in collaboration with the **CDTA (Centre de Développement des Technologies Avancées)**.
 
 ---
 
