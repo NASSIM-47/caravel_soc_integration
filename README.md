@@ -36,4 +36,36 @@ In this project:
 ## 🗂️ Repository Structure
 
 
+---
+
+## ⚙️ Tools & Technologies
+- **HDL**: Verilog  
+- **ASIC Flow**: OpenLane  
+- **SoC Template**: Caravel  
+- **EDA Tools**: OpenROAD, Magic, Netgen  
+- **Technology**: Sky130 / CMOS  
+- **Operating System**: Linux  
+
+---
+
+## ✅ Achievements
+- Successful integration of a custom hardware block into a SoC
+- Complete RTL-to-GDSII ASIC implementation
+- Application of timing constraints and parasitic extraction
+- Physical verification using LVS
+- Strong understanding of **hardware architecture and SoC integration**
+
+
+---
+
+## 👤 Author
+**Ammali Taieb Nassim**  
+- LinkedIn: https://linkedin.com/in/taieb-nassim-ammali  
+- GitHub: https://github.com/NASSIM-47  
+- Email: ammali.t.nassim@gmail.com  
+
+---
+
+## 📄 License
+This project is licensed under the **Apache-2.0 License**.
 
