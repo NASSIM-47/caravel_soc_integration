@@ -35,6 +35,24 @@ In this project:
 
 ## 🗂️ Repository Structure
 
+---
+
+## 🚀 How to Run OpenLane
+
+This project uses **OpenLane** to perform a complete ASIC flow from **RTL to GDSII**.
+
+### ✅ Prerequisites
+- Linux environment
+- Docker installed and running
+- OpenLane properly installed
+- Caravel environment set up
+
+### 🔧 Running the Flow
+
+1. Clone this repository:
+2. 
+git clone https://github.com/NASSIM-47/caravel_soc_integration.git
+cd caravel_soc_integration 
 
 ---
 
@@ -58,6 +76,33 @@ In this project:
 
 ---
 
+## 🔹 Section **“Layout Snapshots” (captures de layout)**
+
+Cette section est **très importante pour les recruteurs** 🔥  
+Ajoute-la **vers la fin du README**.
+
+```markdown
+## 🖼️ Layout Snapshots
+
+Below are snapshots of the physical layout generated after the OpenLane flow.
+
+### 🔹 User Project Wrapper – Layout View
+![User Project Wrapper Layout](images/user_project_wrapper_layout.png)
+
+### 🔹 Full Chip Layout (Caravel Integration)
+![Caravel SoC Layout](images/caravel_full_chip_layout.png)
+
+### 🔹 LVS / DRC Verified Layout
+![LVS DRC Clean](images/lvs_drc_clean.png)
+
+These layouts demonstrate:
+- Correct placement and routing
+- Successful integration into the Caravel SoC
+- Compliance with physical design rules
+- LVS-clean implementation
+
+---
+
 ## 👤 Author
 **Ammali Taieb Nassim**  
 - LinkedIn: https://linkedin.com/in/taieb-nassim-ammali  
@@ -68,4 +113,7 @@ In this project:
 
 ## 📄 License
 This project is licensed under the **Apache-2.0 License**.
+
+
+
 
