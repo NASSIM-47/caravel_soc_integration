@@ -81,27 +81,6 @@ cd caravel_soc_integration
 Cette section est **très importante pour les recruteurs** 🔥  
 Ajoute-la **vers la fin du README**.
 
-```markdown
-## 🖼️ Layout Snapshots
-
-Below are snapshots of the physical layout generated after the OpenLane flow.
-
-### 🔹 User Project Wrapper – Layout View
-![User Project Wrapper Layout](images/user_project_wrapper_layout.png)
-
-### 🔹 Full Chip Layout (Caravel Integration)
-![Caravel SoC Layout](images/caravel_full_chip_layout.png)
-
-### 🔹 LVS / DRC Verified Layout
-![LVS DRC Clean](images/lvs_drc_clean.png)
-
-These layouts demonstrate:
-- Correct placement and routing
-- Successful integration into the Caravel SoC
-- Compliance with physical design rules
-- LVS-clean implementation
-
----
 
 ## 👤 Author
 **Ammali Taieb Nassim**  
