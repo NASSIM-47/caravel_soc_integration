@@ -49,8 +49,7 @@ This project uses **OpenLane** to perform a complete ASIC flow from **RTL to GDS
 ### 🔧 Running the Flow
 
 1. Clone this repository:
-2. 
-git clone https://github.com/NASSIM-47/caravel_soc_integration.git
+2.git clone https://github.com/NASSIM-47/caravel_soc_integration.git
 cd caravel_soc_integration 
 
 ---
@@ -74,11 +73,6 @@ cd caravel_soc_integration
 
 
 ---
-
-## 🔹 Section **“Layout Snapshots” (captures de layout)**
-
-Cette section est **très importante pour les recruteurs** 🔥  
-Ajoute-la **vers la fin du README**.
 
 
 ## 👤 Author
